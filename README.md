@@ -88,7 +88,7 @@
   <a href="https://www.instagram.com/jvsampaioc/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-sampaio-costa-5a0643288/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovitorsampaiocosta/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
 </div>
